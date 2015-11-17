@@ -14,13 +14,12 @@ FORGE Service Lab has also used some upstream components in building it's servic
 
 The wiki documetaions are the best place to start learning the content.
 
-	forge/forge-support-wiki contains external wiki documentation
-	forge/internal-wiki contains internal wiki documentation
+	https://github.com/forgeservicelab/forge/forge-support-wiki contains external wiki documentation
+	https://github.com/forgeservicelab/forge/internal-wiki contains internal wiki documentation
 
 Contributions
 ========================================
 
-	akoskine/enc_test
 	ansible/SP_adder
 	ansible/account-cleanup
 	ansible/admin_config
