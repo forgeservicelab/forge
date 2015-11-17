@@ -14,8 +14,8 @@ FORGE Service Lab has also used some upstream components in building it's servic
 
 The wiki documents below are the best place to start learning the content.
 
-- [forge-external-wiki](https://github.com/forgeservicelab/forge/forge-external-wiki) contains external wiki documentation
-- [forge-internal-wiki](https://github.com/forgeservicelab/forge/forge-internal-wiki) contains internal wiki documentation
+- [forge-external-wiki](https://github.com/forgeservicelab/forge.forge-external-wiki) contains external wiki documentation
+- [forge-internal-wiki](https://github.com/forgeservicelab/forge.forge-internal-wiki) contains internal wiki documentation
 
 
 Contributions
