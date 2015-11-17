@@ -2,7 +2,7 @@
 Copyright (c) 2015 DIGILE Ltd.
 These contributions has been created by FORGE Service Lab funding granted by Finnish Ministry of Transport and Communications.
 
-The contributions contain the copy of the FORGE Service Lab assets. External wiki was created to help FORGE Affiliates to use FORGE in digital service creation. Internal wiki was created to document internal processes and practices in building and operating FORGE Service Lab. Other assests contains code and Ansible playbooks which have been used to build and operate FORGE Service Lab SaaS environment. Assets also contain examples which can be used to build digital services.
+The contributions contain the copy of the FORGE Service Lab assets. External wiki was created to help FORGE Affiliates to use FORGE in digital service creation. Internal wiki was created to document internal processes and practices in building and operating FORGE Service Lab. Other assets contains code and Ansible playbooks which have been used to build and operate FORGE Service Lab SaaS environment. Assets also contain examples which can be used to build digital services.
 
 The contributions contain valuable information in terms of digital service creation e.g. learning, setting up and using various technologies. The contributions have references and links to various services which may be discontinued and nonexistent e.g. git.forgeservicelab.fi, cloud.forgeservicelab.fi, support.forgeservicelab.fi and the links are provided as a reference.
 
@@ -12,10 +12,11 @@ The contributions are licensed with open source licenses like Creative Commons A
 
 FORGE Service Lab has also used some upstream components in building it's services. Links to used upstream components are provided in [Upstream section](#upstream).
 
-The wiki documetaions are the best place to start learning the content.
+The wiki documents below are the best place to start learning the content.
 
 	https://github.com/forgeservicelab/forge/forge-support-wiki contains external wiki documentation
 	https://github.com/forgeservicelab/forge/internal-wiki contains internal wiki documentation
+
 
 Contributions
 ========================================
@@ -133,29 +134,28 @@ Contributions
 	testautomation/sso
 	testautomation/xmpp
 
-
 Upstream
 ========================================
 
-	ansible-roles/timezone origin:https://github.com/knopki/ansible-timezone.git
-	ansible/cdh5-hadoop origin:http://www.cloudera.com/content/cloudera/en/documentation/cdh5/latest/CDH5-Release-Notes/cdh5rn_new_in_513.html
-	ansible-modules/openstack-ansible-modules origin:http://github.com/lorin/openstack-ansible
-	ansible-roles/ansible-piwik origin:https://github.com/ICTO/ansible-piwik.git
-	ansible-roles/jenkins origin:https://github.com/Stouts/Stouts.jenkins.git
-	ansible-roles/openldap_server origin:https://github.com/bennojoy/openldap_server.git
-	forge/casinoapp origin:https://github.com/rbCAS/CASinoApp.git
-	forge/forge-password-change origin:http://ltb-project.org/wiki/download
-	forge/gitlab-ce origin:https://gitlab.com/gitlab-org/gitlab-ce/
-	forge/redmine origin:http://www.redmine.org
-	forge-redmine-plugins/redmine_anonymous_watchers origin:git@github.com:pheelay/redmine_anonymous_watchers.git
-	forge-redmine-plugins/redmine_backlogs origin:https://github.com/backlogs/redmine_backlogs.git
-	forge-redmine-plugins/redmine_canned_responses origin:https://github.com/commandprompt/redmine_canned_responses.git
-	forge-redmine-plugins/redmine_cas origin:https://github.com/ninech/redmine_cas.git
-	forge-redmine-plugins/redmine_email_notification_content_filter origin:https://github.com/keeps/redmine_email_notification_content_filter.git
-	forge-redmine-plugins/redmine_extended_watchers origin:https://github.com/maxrossello/redmine_extended_watchers.git
-	forge-redmine-plugins/redmine_impasse origin:https://github.com/kawasima/redmine_impasse.git
-	forge-redmine-plugins/redmine_improved_searchbox origin:https://github.com/ries-tech/redmine_improved_searchbox.git
-	forge-redmine-plugins/redmine_ldap_sync origin:https://github.com/thorin/redmine_ldap_sync.git
-	forge-redmine-plugins/redmine_my_page_queries origin:git://github.com/Undev/redmine_my_page_queries.git
-	forge-redmine-plugins/redmine_watcher_groups origin:https://github.com/kamenf/redmine_watcher_groups.git
-	forge-redmine-plugins/redmine_wiki_extensions origin:https://bitbucket.org/haru_iida/redmine_wiki_extensions
+	ansible-roles.timezone origin:https://github.com.knopki.ansible-timezone.git
+	ansible.cdh5-hadoop origin:http://www.cloudera.com/content/cloudera/en/documentation/cdh5/latest/CDH5-Release-Notes/cdh5rn_new_in_513.html
+	ansible-modules.openstack-ansible-modules origin:http://github.com/lorin/openstack-ansible
+	ansible-roles.ansible-piwik origin:https://github.com/ICTO/ansible-piwik.git
+	ansible-roles.jenkins origin:https://github.com/Stouts/Stouts.jenkins.git
+	ansible-roles.openldap_server origin:https://github.com/bennojoy/openldap_server.git
+	forge.casinoapp origin:https://github.com/rbCAS/CASinoApp.git
+	forge.forge-password-change origin:http://ltb-project.org/wiki/download
+	forge.gitlab-ce origin:https://gitlab.com/gitlab-org/gitlab-ce/
+	forge.redmine origin:http://www.redmine.org
+	forge-redmine-plugins.redmine_anonymous_watchers origin:git@github.com:pheelay/redmine_anonymous_watchers.git
+	forge-redmine-plugins.redmine_backlogs origin:https://github.com/backlogs/redmine_backlogs.git
+	forge-redmine-plugins.redmine_canned_responses origin:https://github.com/commandprompt/redmine_canned_responses.git
+	forge-redmine-plugins.redmine_cas origin:https://github.com/ninech/redmine_cas.git
+	forge-redmine-plugins.redmine_email_notification_content_filter origin:https://github.com/keeps/redmine_email_notification_content_filter.git
+	forge-redmine-plugins.redmine_extended_watchers origin:https://github.com/maxrossello/redmine_extended_watchers.git
+	forge-redmine-plugins.redmine_impasse origin:https://github.com/kawasima/redmine_impasse.git
+	forge-redmine-plugins.redmine_improved_searchbox origin:https://github.com/ries-tech/redmine_improved_searchbox.git
+	forge-redmine-plugins.redmine_ldap_sync origin:https://github.com/thorin/redmine_ldap_sync.git
+	forge-redmine-plugins.redmine_my_page_queries origin:git://github.com/Undev/redmine_my_page_queries.git
+	forge-redmine-plugins.redmine_watcher_groups origin:https://github.com/kamenf/redmine_watcher_groups.git
+	forge-redmine-plugins.redmine_wiki_extensions origin:https://bitbucket.org/haru_iida/redmine_wiki_extensions
