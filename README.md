@@ -97,6 +97,7 @@ Contributions
 	ansible-roles/zato
 	druid/web
 	forge/benchmark
+	forge/brand-assets
 	forge/combined-log-parser
 	forge/forge-birt-reportdesigns
 	forge/forge-piwik
